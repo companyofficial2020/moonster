@@ -453,7 +453,7 @@ nav ul ul li a:hover {
     text-align: center;
     display: none;
     padding-top: 3px;
-    margin-left: auto;
+    margin-left: 30px;
 }
 
 .no-br {
@@ -1834,7 +1834,7 @@ div#html5-image {
 /* OUR HISTORY SECTION */
 
 .our-history {
-    width: 100%;
+    max-width: 490px;
     margin-bottom: -10px;
 }
 
@@ -2991,6 +2991,7 @@ input:checked+.slider:before {
 
 .contact-main-form {
     background-color: #f5f5f5;
+    padding: 86px 80px 50px;
     border-radius: 0 10px 10px 0;
     height: 100%;
 }

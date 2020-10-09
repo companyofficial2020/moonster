@@ -292,6 +292,12 @@
     }
 }
 
+@media (max-width:1199px) {
+    .menu-btnn {
+        margin-left: auto;
+    }
+}
+
 @media (max-width: 991px) {
     header {
         top: 30px;
@@ -427,7 +433,7 @@
     }
     .contact-main-form {
         border-radius: 0;
-        height: 100%;
+        padding: 86px 40px 50px;
     }
     .project-info {
         bottom: 20px;
@@ -456,6 +462,9 @@
     }
     .processs-section {
         margin-bottom: -40px;
+    }
+    .menu-btnn {
+        margin-left: auto;
     }
 }
 
@@ -916,7 +925,7 @@
         padding: 80px 0 80px;
     }
     .contact-main-form {
-        height: 100%;
+        padding: 55px 20px 50px;
     }
     .contact-head {
         margin-top: -30px;
