@@ -781,7 +781,7 @@ a:hover {
 .abt-txt {
     position: absolute;
     bottom: -44px;
-    right: 26px;
+   right:-59px;
     background-color: #fff;
     padding: 42px 60px 28px;
     max-width: 445px;
