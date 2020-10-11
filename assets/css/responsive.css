@@ -138,7 +138,8 @@
         line-height: 76px;
     }
     .abt-txt {
-        bottom: 0;
+         bottom: -25px;
+        right: -1px;
     }
     .team-head>h2 {
         font-size: 150px;
